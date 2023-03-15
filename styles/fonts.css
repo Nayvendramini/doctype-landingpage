@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'technology';
+    src: url('../components/fonts/Technology-Bold.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'technologybold';
+    src: url('../components/fonts/Technology-BoldItalic.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
